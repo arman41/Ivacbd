@@ -1,2 +1,0 @@
-# Ivacbd
-OTP Genaret
